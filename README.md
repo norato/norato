@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/norato)
@@ -11,6 +8,12 @@
 [![Medium Badge](https://img.shields.io/badge/-Felipe%20Norato-blue?style=social&logo=Medium&logoColor=blue&link=https://medium.com/@felipenoratolacerda)](https://medium.com/@felipenoratolacerda)
 
  </div>
+
+### Hi there 👋, I am Norato
+
+I am a Brazilian Software Developer that chose to work with the frontend in 2014 when falling in love with javascript! Since then I have made lots of products using mostly Angular but in my early years Angular.js and React for a short period.
+In my free time, I like to share my knowledge helping other developers in forums, writing articles at [Medium](https://medium.com/@felipenoratolacerda), and recording on [Youtube](https://www.youtube.com/playlist?list=PLUiA-wncNaaqf1B-0RAdSQNz9fL-oEkek)!
+ 
  
  
  ## My Latest Blog Posts
